@@ -6,3 +6,14 @@ class Pokemon {
     types = [];
     photo;
 }
+class pokemonDetailclick{
+
+    especies;
+    heigth; 
+    weight;
+    abilities;
+    Gender;
+    EggGroups;
+    EggCycle
+
+}
